@@ -1,1 +1,3 @@
 # first_practice
+
+##notes
